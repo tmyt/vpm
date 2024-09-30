@@ -1,5 +1,5 @@
 {
-    "name":"ExampleListing",
+    "name":"onsen.tech tools",
     "id":"tech.onsen.vrc",
     "url":"https://tmyt.github.io/vpm/index.json",
     "author":{
@@ -7,7 +7,7 @@
         "name":"tmyt",
         "url":"https://m6n.onsen.tech/@tmyt"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"onsen.tech tools of VRChat packages",
     "infoLink":{
         "url":"http://github.com/tmyt/vpm",
         "text":"View on GitHub"
